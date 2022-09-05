@@ -17,3 +17,7 @@ The code on the HTML and CSS files was refactored to make it more accessible and
 > * Compare codes from files
 
 > * Compare Original HTML file to Refactored HTML to ensure it resembles mock-up
+
+## License
+
+Please refer to the LICENSE in the repo.
