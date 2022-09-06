@@ -12,9 +12,9 @@ The code on the HTML and CSS files was refactored to make it more accessible and
 
 > * Open Vs Code with command : Code .
 
-> * Open index.html and style.css files in the code-refactor repo
+> * Open index.html and style.css files on VS code
 
-> * Compare codes from files
+> * Compare code with original HTML and CSS files
 
 > * Compare Original HTML file to Refactored HTML to ensure it resembles mock-up
 
