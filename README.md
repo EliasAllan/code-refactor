@@ -4,7 +4,21 @@
 
 The code on the HTML and CSS files was refactored to make it more accessible and easier to read. As a student I believe this exercise was built to solidify what we learned in Module 1.
 
-## Usage
+## Acceptance Criteria
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
+## Tasks
 
 > * Open Git Bash
 
@@ -17,6 +31,10 @@ The code on the HTML and CSS files was refactored to make it more accessible and
 > * Compare code with original HTML and CSS files
 
 > * Compare Original HTML file to Refactored HTML to ensure it resembles mock-up
+
+## Screenshot
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
 ## License
 

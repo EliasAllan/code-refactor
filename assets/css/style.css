@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Changes backgroud color for the body */
 body {
     background-color: #d9dcd6;
 }
@@ -16,15 +17,18 @@ header {
     color: #ffffff;
 }
 
+/* Changes styling for the header section */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changes styling for the header section */
 .seo {
     color: #d9dcd6;
 }
 
+/* Changes styling for the header section */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,22 +37,24 @@ header nav {
     font-size: 20px;
 }
 
+/* Changes styling for the header section */
 header nav ul {
     list-style-type: none;
 }
 
+/* Changes styling for the header section */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* Changes styling for the header section */
 
-
+/* Changes hyperlink color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Changes paragraph font size */
 p {
     font-size: 16px;
 }
@@ -63,8 +69,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Large picture on the top portion of the website */
-
 
 /* Changes styling for the section in the bottom half of the screen (cards) */
 .float-left {
@@ -72,18 +76,18 @@ p {
     margin-right: 25px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* Changes styling for the section in the bottom half of the website (cards) */
-
 
 /* Changes styling for the aside section */
 .benefits {
