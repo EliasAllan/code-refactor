@@ -6,6 +6,7 @@ The code on the HTML and CSS files was refactored to make it more accessible and
 
 ## Acceptance Criteria
 
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -17,12 +18,13 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 
 ## Tasks
 
 > * Open Git Bash
 
-> * Go to code-refactor repository with command : cd "repository-name/repository-name"
+> * Go to code-refactor repository with command : cd "folder-name/folder-name"
 
 > * Open Vs Code with command : Code .
 
