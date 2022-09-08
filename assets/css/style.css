@@ -1,3 +1,4 @@
+/* Universal */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -101,57 +102,65 @@ p {
     background-color: #2589bd;
 }
 
+/* Changes styling for the aside section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Changes styling for the aside section */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Changes styling for the aside section */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Changes styling for the aside section */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Changes styling for the aside section */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Changes styling for the aside section */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Changes styling for the images in the aside section */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Changes styling for the images in the aside section */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Changes styling for the images in the aside section */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* Changes styling for the aside section */
 
 
-/* Changes styling for the links */
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +170,7 @@ p {
     color: #ffffff;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -170,6 +180,7 @@ p {
     color: #ffffff;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -179,33 +190,38 @@ p {
     color: #ffffff;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Changes styling for the links */
 
 /* Changes styling for the footer */
 footer {
@@ -215,7 +231,7 @@ footer {
     text-align: center;
 }
 
+/* Changes styling for the footer */
 footer h2 {
     font-size: 20px;
 }
-/* Changes styling for the links */
