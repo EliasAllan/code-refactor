@@ -90,6 +90,70 @@ p {
     margin-left: 20px;
 }
 
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Changes styling for the section in the bottom half of the screen (cards) */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
 /* Changes styling for the aside section */
 .benefits {
     margin-right: 20px;
@@ -159,69 +223,6 @@ p {
     max-width: 150px;
 }
 
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Changes styling for the section in the bottom half of the screen (cards) */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /* Changes styling for the footer */
 footer {

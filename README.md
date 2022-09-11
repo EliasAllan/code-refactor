@@ -1,4 +1,4 @@
-# Code-refactor
+# Accesibility code refactor
 
 ## Description
 
@@ -41,3 +41,7 @@ THEN I find a concise, descriptive title
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Link to deployed application
+
+https://eliasallan.github.io/code-refactor/
