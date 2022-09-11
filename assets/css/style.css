@@ -44,7 +44,7 @@ header nav ul {
 }
 
 /* Changes styling for the header section */
-header nav ul li {
+header nav ul a {
     display: inline-block;
     margin-left: 25px;
 }
