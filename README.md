@@ -4,21 +4,9 @@
 
 The code on the HTML and CSS files was refactored to make it more accessible and easier to read. As a student I believe this exercise was built to solidify what we learned in Module 1.
 
-## Acceptance Criteria
+## Overview
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+Click the links on the navigator to go the the respective cards on the bottom of the page
 
 ## Tasks
 
